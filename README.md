@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_IMAGE_URL_OR_PATH_HERE](https://i.pinimg.com/736x/d8/8c/76/d88c765c01bd6061baff1a2de4d7aae2.jpg)" width="100%" alt="Header Banner">
+  <img src="https://i.pinimg.com/736x/d8/8c/76/d88c765c01bd6061baff1a2de4d7aae2.jpg" width="100%" alt="Header Banner">
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Arpan9090">Arpan Maurya</a> 🌙</h3>
