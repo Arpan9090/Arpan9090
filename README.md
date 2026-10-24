@@ -26,9 +26,10 @@
 
 <p align="center">
   <code>&gt; Java</code> &nbsp;&bull;&nbsp;
-  <code>&gt; JavaScript</code> &nbsp;&bull;&nbsp;
-  <code>&gt; Git</code> &nbsp;&bull;&nbsp;
   <code>&gt; SprinBoot</code>
+  <code>&gt; Postgres</code>
+  <code>&gt; Git</code> &nbsp;&bull;&nbsp;
+  <code>&gt; JavaScript</code> &nbsp;&bull;&nbsp;
 </p>
 
 <br>
